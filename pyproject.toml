@@ -7,5 +7,5 @@ name = "youtubevg"
 version = "0.1.0"
 description = "Desktop application for generating videos from scripts"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = ["PyQt6>=6.7,<7"]
 
